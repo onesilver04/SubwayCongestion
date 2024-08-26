@@ -35,3 +35,6 @@ Google Colab으로 데이터 처리 및 시각화 목표
 > 
 > ![최종결과](https://github.com/user-attachments/assets/460bad39-08ee-4616-8238-8c3d36933bf2)
 > 
+> 원의 크기가 클수록 혼잡한 역
+>
+> 상계~사당 사이의 하행선 역들만 혼잡도로 표현
