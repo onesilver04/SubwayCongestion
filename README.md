@@ -6,7 +6,7 @@ Google Colab으로 데이터 처리 및 시각화 목표
 ### 목차
 
   - [개요](#개요) 
-  - [Project 구조](#Project-구조)
+  - [Google Drive 구조](#Google-Drive-구조)
   - [Help](#Help)
 
 ### 개요
