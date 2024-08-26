@@ -31,3 +31,4 @@ Google Colab으로 데이터 처리 및 시각화 목표
 
 > pandas -> csv파일 데이터 처리
 > matplotlib -> 그래프 그리기
+![최종결과](https://github.com/user-attachments/assets/460bad39-08ee-4616-8238-8c3d36933bf2)
